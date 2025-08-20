@@ -6,7 +6,7 @@ you need **pain**.
 
 thank me later <3
 
-I hate my self too..
+I hate myself too..
 ## How to Run
 ```bash
 python ilovecoding.py
